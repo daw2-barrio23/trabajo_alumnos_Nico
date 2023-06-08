@@ -16,7 +16,7 @@ export const menuUsuario = {
           aria-expanded="false"
         >
           <div class="avatarLogin d-inline-block">
-          <span id="emailUsuarioLogueado" class="pe-3 text-dark"></span>
+          <span id="emailUsuarioLogueado" class="pe-3 text-light"></span>
             <img
               id="imgAvatar"
               src="../assets/avatar.svg"
