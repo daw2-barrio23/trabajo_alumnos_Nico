@@ -1,9 +1,5 @@
-
 import { Perfil } from "../bd/perfil";
 import { User } from "../bd/user";
-
-
-
 
 
 export const formEditarUsuario = {

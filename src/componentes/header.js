@@ -12,7 +12,7 @@ export const header = {
   <div class="container-fluid ">
     <a class="navbar-brand d-flex align-items-center text-light" href="#/home">
       <img
-        src="../assets/logo.svg"
+        src="https://img.icons8.com/color/12x/avatar.png"
         alt="Logo"
         width="30"
         height="30"
