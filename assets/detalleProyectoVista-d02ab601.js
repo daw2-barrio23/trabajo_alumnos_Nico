@@ -1,5 +1,5 @@
-import { P as Proyecto } from "./proyecto-c6c9fa55.js";
-import "./main-57428cbb.js";
+import { P as Proyecto } from "./proyecto-15a9dd40.js";
+import "./main-f7240a6a.js";
 const detalleProyecto = {
   template: `
     <div class="container justify-content-center mt-5">
